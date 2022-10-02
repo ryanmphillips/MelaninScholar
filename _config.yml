@@ -1,9 +1,9 @@
-### your site title here
+### Graduate Portfolio
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Ryan M. Phillips
+description: Texts & Technology | UCF | ;
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /MelaninScholar #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "MelaninScholar"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
